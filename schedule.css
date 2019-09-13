@@ -1,0 +1,28 @@
+body{
+font-family: "Marker Felt", "Times New Roman", fantasy;
+color: #000000;
+}
+h1 {
+font-size: 2.0em;
+text-align: center;
+}
+p {
+font-size: 1.0em;
+text-align: left;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+border-collapse: collapse;
+}
+tr {
+border: 4px solid #000000;
+text-align: center;
+background-color:#00FFFF;
+}
+th {
+text-align: center;
+color: #ffffff;
+background-color: #003366;
+}
